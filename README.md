@@ -17,7 +17,7 @@ Fatigue measured via:
 
 # Contents
 - analysis.ipynb: Python notebook with all statistical tests and models (Designed to be run in Google Colab),
-- dataset.xlsx: A sample data can be used in the study.
+- sample_dataset.xlsx: A sample data can be used in the study.
 
 # Instructions
 Open analysis.ipynb  in Google Colab or Jupyter,
